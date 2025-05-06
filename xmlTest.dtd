@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+    <person>
+        <personal age="20" complexion="fair" hobby="coding">Jomiloju Tifeoluwa</personal>
+        <academics level="200" course="java">Aptech Education</academics>
+    </person>
+    <person>
+        <personal age="18" complexion="dark" hobby="eating">Praise Chizu</personal>
+        <academics level="200" course="java">Aptech Education</academics>
+    </person>
+    <person>
+        <personal age="24" complexion="fair" hobby="coding">Emeka Pascal</personal>
+        <academics level="200" course="java">Horizon Education</academics>
+    </person>
+    <person>
+        <personal age="20" complexion="fair" hobby="coding">Bolatito Anjola</personal>
+        <academics level="200" course="java">Lautech Education</academics>
+    </person>
+    <person>
+        <personal age="20" complexion="fair" hobby="coding">Tiseoluwa Seun</personal>
+        <academics level="200" course="java">Aptech Education</academics>
+    </person>
+</members>
+
+// Well formed schemas are schemas that are properly written without going against xml rules to prevent errors and for easy understanding of the program
+// Schema validation basically deals with user-defined rules that must be followed while writing a schema. They are rules that have already been given to a particular schema for it to follow and if the schema isn't followed then there'd be errors and the program would not accept whatever has been put in it because it doesn't tally with the validation for the schema which can be put in a dtd file
+// namespaces help in the prevention of conflict between tag names or names in general especially when there are 2 or more xml files with the same tag names, a namespace would then be needed to differentiate between the tags.
